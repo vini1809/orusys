@@ -3724,6 +3724,10 @@ input, select, textarea {
 				width: 190px;
 				height: 130px;
 			}
+			.projeto2 img {
+				width: 190px;
+				height: 180px;
+			}
 
 			#main > .main {
 				padding: 3em 1.5em 1em 1.5em ;
